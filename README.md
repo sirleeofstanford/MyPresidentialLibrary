@@ -4,9 +4,9 @@ Welcome to my **Presidential Library** — a curated archive of personal project
 This repository serves as the central hub, connecting all collections into one unified library.
 
 ## 📚 Collections
-- 📸 [Scanned Family Pictures](https://github.com/your-username/Scanned-Family-Pictures)  
-- 🖼️ [Public Shared Photos](https://github.com/your-username/Public_Shared_Photos)  
-- 🎓 [Education](https://github.com/your-username/Education)  
+- 📸 [Scanned Family Pictures](https://github.com/sirleeofstanford/Scanned_Family_Pictures)  
+- 🖼️ [Public Shared Photos](https://github.com/sirleeofstanford/Public_Shared_Photos)  
+- 🎓 [Education](https://github.com/sirleeofstanford/My_Education)  
 
 ## 🎯 Purpose
 - Preserve family memories and milestones  

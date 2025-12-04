@@ -6,7 +6,8 @@ This repository serves as the central hub, connecting all collections into one u
 ## 📚 Collections
 - 📸 [Scanned Family Pictures](https://github.com/sirleeofstanford/Scanned_Family_Pictures)  
 - 🖼️ [Public Shared Photos](https://github.com/sirleeofstanford/Public_Shared_Photos)  
-- 🎓 [Education](https://github.com/sirleeofstanford/My_Education)  
+- 🎓 [Education](https://github.com/sirleeofstanford/My_Education)
+- 📓 [Scanned_Notebooks](https://github.com/sirleeofstanford/Scanned_Notebooks)
 
 ## 🎯 Purpose
 - Preserve family memories and milestones  

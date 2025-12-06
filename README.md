@@ -10,6 +10,7 @@ This repository serves as the central hub, connecting all collections into one u
 - 📓 [Scanned_Notebooks](https://github.com/sirleeofstanford/Scanned_Notebooks)
 - 📦 [Kubernetes_Yaml_Deployments](https://github.com/sirleeofstanford/Kubernetes_Yaml_Deployments)
 - 🖥️ [Hyper‑V Scripts by Lee & Copilot](https://github.com/sirleeofstanford/hyper-v-scripts-by-Lee-and-Copilot/blob/main/README.md)
+- 🔑 [ssh_keygrid_AD](https://github.com/sirleeofstanford/ssh_keygrid_AD)
   
 ## 🎯 Purpose
 - Preserve family memories and milestones  

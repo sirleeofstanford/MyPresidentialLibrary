@@ -11,6 +11,7 @@ This repository serves as the central hub, connecting all collections into one u
 - 📦 [Kubernetes_Yaml_Deployments](https://github.com/sirleeofstanford/Kubernetes_Yaml_Deployments)
 - 🖥️ [Hyper‑V Scripts by Lee & Copilot](https://github.com/sirleeofstanford/hyper-v-scripts-by-Lee-and-Copilot/blob/main/README.md)
 - 🔑 [ssh_keygrid_AD](https://github.com/sirleeofstanford/ssh_keygrid_AD)
+- 📂 [Misc_Legal_Docs_of_Importance](https://github.com/sirleeofstanford/Misc_Legal_Docs_of_Importance)
   
 ## 🎯 Purpose
 - Preserve family memories and milestones  
